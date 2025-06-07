@@ -1,3 +1,2 @@
 # Unit-Converter
-![](screenshot.png)
-![](screenshot1.png)
+Ölçü çevirici vasitəsi ilə siz ölçünü m, km, funt, yard, mil - ə çevirə bilərsiniz
